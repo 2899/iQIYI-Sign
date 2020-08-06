@@ -4,7 +4,7 @@ import datetime
 import requests
 import time
 
-#1、登录爱奇艺（IQIYI）官网https://www.iqiyi.com/，加载主页面，按F12开发者工具搜索获取P00001，P00003参数
+#1、登录爱奇艺（IQIYI）官网https://www.iqiyi.com/ ，按F12开发者工具，加载主页面，在Network-Doc中找到cookies，获取P00001，P00003参数
 #2、Server酱推送提醒，需要填写sckey，官网：https://sc.ftqq.com/3.version
 
 P00001 = ""
